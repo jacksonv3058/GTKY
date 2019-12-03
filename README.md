@@ -1,12 +1,12 @@
-My name is ...
+My name is jackson
 
-I'm ... years old.
+I'm 99999 years old.
 
-I was born in ....
+I was born in a cave
 
-My favorite color is ...
+My favorite color is purple
 
-My favorite 3 artist are ...
+My favorite 3 artist are all artists that make music
 
-On the weekends I like to ...
+On the weekends I like to do things
 
